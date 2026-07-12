@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Burcu 👋
 
-<!--
-**burcusuzer/burcusuzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineer transitioning into Data Analytics.
 
-Here are some ideas to get you started:
+🔍 Currently focusing on:
+- SQL
+- Business Intelligence
+- Power BI (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Current Portfolio Project:
+- DVD Rental Business Performance Analysis
+
+🎯 Career Goal:
+Seeking Data Analyst / Business Intelligence Analyst opportunities.
+
+📍 İzmir, Türkiye
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/burcusuzer/
