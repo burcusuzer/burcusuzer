@@ -1,19 +1,33 @@
 # Hi, I'm Burcu 👋
 
-I'm a Computer Engineer transitioning into Data Analytics.
+I'm a Computer Engineer with over 11 years of experience in system integration, software testing, technical support, and Business Intelligence projects.
 
-🔍 Currently focusing on:
+I am currently focused on Data Analytics and Business Intelligence, with hands-on experience in:
+
 - SQL
+- Power BI
+- Data Analysis
+- Data Visualization
+- Reporting
 - Business Intelligence
-- Power BI (Learning)
 
-📊 Current Portfolio Project:
-- DVD Rental Business Performance Analysis
+## Featured Project
 
-🎯 Career Goal:
-Seeking Data Analyst / Business Intelligence Analyst opportunities.
+### DVD Rental Business Performance Analysis
 
-📍 İzmir, Türkiye
+An end-to-end SQL and Power BI project using the MySQL Sakila database.
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/burcusuzer/
+The project includes:
+
+- 24 business-focused SQL analyses
+- Customer segmentation and revenue analysis
+- CTEs, window functions, views, and aggregations
+- Executive and Customer Analytics Power BI dashboards
+- Business insights and reporting
+
+## Career Goal
+
+I am seeking Data Analyst, Business Intelligence Analyst, and Reporting Analyst opportunities.
+
+📍 İzmir, Türkiye  
+🔗 [LinkedIn](https://www.linkedin.com/in/burcusuzer/)
