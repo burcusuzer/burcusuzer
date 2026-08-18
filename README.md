@@ -61,6 +61,8 @@ The project explores customer behavior, order performance, delivery operations, 
 - Exploratory data analysis
 - Business questions and KPI development
 
+[View Project](https://github.com/burcusuzer/ecommerce-customer-delivery-analysis)
+
 ---
 
 ### 🐍 Python Data Analytics Journey
